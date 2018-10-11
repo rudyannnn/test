@@ -1,4 +1,4 @@
-JR="ssh -p 5xxxx o*@125.186.227.47" 
+JR="ssh -p 5xxxx o*@115.31.124.54" 
 BD="ssh -p 5xxxx o*@122.46.185.94" 
 SR="ssh -p 5xxxx o*@125.186.227.47" 
 SRI="ssh osmc@192.168.219.102"
